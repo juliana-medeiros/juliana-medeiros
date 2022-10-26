@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou terminando um curso técnico de informática
 - 🌱 Estudando para front-end
-- 😄 Pronomes: ela/dela
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
