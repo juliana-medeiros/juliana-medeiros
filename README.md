@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Juliana
 
 - 🔭 Hoje estou terminando um curso técnico de informática
-- 🌱 Estudando para front-end
+- 🌱 Estudando para ser full stack
 
 
 <div style="display: inline_block"><br>
