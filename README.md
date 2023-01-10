@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Juliana
 
 - 🎓 Técnica de Informática pelo IFRJ
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pela UVA
 - 💻 Estudando para ser full stack
 
 
@@ -17,3 +18,4 @@
  
  
 </div>
+
