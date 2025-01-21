@@ -2,8 +2,7 @@
 
 - 🎓 Técnica de Informática pelo IFRJ
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela UVA
-- 💻 Estudando para ser full stack
-
+- 💻 Analista de dados | Python 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
