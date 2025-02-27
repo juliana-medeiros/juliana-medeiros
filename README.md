@@ -2,7 +2,7 @@
 
 - 🎓 Técnica de Informática pelo IFRJ
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela UVA
-- 💻 Analista de dados | Python | SQL | Desenvolvimento de Software
+
 
 
 <div> 
